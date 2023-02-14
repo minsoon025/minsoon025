@@ -2,7 +2,7 @@
 
 * #### **Software Engineer**
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsxo824)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsxo824)](https://solved.ac/profile/alsxo824)
+(https://solved.ac/profile/alsxo824)
 
 ## 🍀 Profile
 
