@@ -3,7 +3,7 @@
 * #### **Software Engineer**
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsxo824)](https://solved.ac/alsxo824/)
 
-![minsoon025's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsoon025&show_icons=true&theme=merko) 
+![minsoon025's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsoon025&show_icons=true&theme=highcontrast) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsoon025&layout=comact&theme=tokyonight)
 
 ## 🍀 Profile
