@@ -1,8 +1,8 @@
-# 🍀 Mintae KIm
+# 🍀 Mintae KIM
 
 * ###  **Software Engineer**
 
-## 🍀 Baekjoon Solved Rank
+## 🍀 Baekjoon Solved Rank.1
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsxo824)](https://solved.ac/alsxo824/)
  
