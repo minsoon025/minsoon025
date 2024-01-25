@@ -17,7 +17,8 @@
 
 </div>
 
-[![img](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:alsxo82425@gmail.com) [![img](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://minsoonsday.tistory.com/)
+[![img](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:alsxo82425@gmail.com) [![img](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://minsoonsday.tistory.com/)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mintae-kim-a093101a5/)](https://www.linkedin.com/in/mintae-kim-a093101a5/)
+
 
 </div>
 
