@@ -11,7 +11,8 @@
 ![minsoon025's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsoon025&show_icons=true&theme=highcontrast)
  
 ## 🍀 Most used Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsoon025&layout=comact&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsoon025)](https://github.com/minsoon025/github-readme-stats)
  
 ## 🍀 Profile
 
