@@ -1,8 +1,4 @@
-# 커밋 먹는 뱀 그래프 생성을 위한 GitHub Action🐍
-
 name: Generate Snake
-
-# Action이 언제 구동될지 결정
 
 on:
   schedule:
@@ -22,8 +18,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: [minsoon025]
-          # output branch에 gif, svg를 각각 생성
+          github_user_name: minsoon025
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
